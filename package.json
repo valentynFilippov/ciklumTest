@@ -1,0 +1,25 @@
+{
+  "name": "ciklumtest",
+  "version": "1.0.0",
+  "description": "test assignment for ciklum",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentynfilippov/ciklumtest.git"
+  },
+  "keywords": [
+    "no",
+    "keywords"
+  ],
+  "author": "valentyn filippov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentynfilippov/ciklumtest/issues"
+  },
+  "homepage": "https://github.com/valentynfilippov/ciklumtest#readme"
+}
